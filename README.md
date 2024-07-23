@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KadTheAnalyst
-- 👀 I’m interested in everything Data Analyst
-- 🌱 I’m currently learning Cleaning up Code!
+- 👀 I’m interested in everything Data Analysis
+- 🌱 I’m currently learning to Clean up Code!
 - 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me : sauravnkadam@gmail.com
 - 😄 Pronouns: He/him
